@@ -19,7 +19,7 @@ I specialize in building high-performance websites and custom applications tailo
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 📈 Current Focus
-- Developing "View Clue" - A digital treasure hunt app for local tourism. *(Optional: insert your actual project here)* ![View-Clue](https://view-clue.catapult-works.com)
+- Developing "View Clue" - A digital treasure hunt app for local tourism. *(Optional: insert your actual project here)* https://view-clue.catapult-works.com
 - Creating inventory and patient portal systems for local service providers.
 
 ### 📫 Let's Connect
